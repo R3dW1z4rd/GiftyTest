@@ -1,0 +1,51 @@
+{
+  "name": "Gifty Monsters #608",
+  "description": "Gifty Monsters is an NFT collection from outer space.",
+  "image": "https://raw.githubusercontent.com/R3dW1z4rd/GiftyTest/main/images/608.png",
+  "dna": "d168f4742c5c32e682eb8194f2a9cedc7d022078",
+  "edition": 608,
+  "date": 1725929699020,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bora Purple"
+    },
+    {
+      "trait_type": "Back",
+      "value": "None"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Body"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink Cap & Baseball Bat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "None"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "None"
+    },
+    {
+      "trait_type": "Feet",
+      "value": "None"
+    },
+    {
+      "trait_type": "Power",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
